@@ -6,7 +6,9 @@ editor_options:
 
 # hello-world
 
-My first Github Repository \# My First Project \## **Course**: ESS 330
-\## **Name**: Hanna Velicer \## **Year**: 3rd Year \## **Major**:
-Ecosystem Science and Sustainability \## **OS**: Mac OS
-
+# My First Project
+## **Course**: ESS 330
+## **Name**: Hanna Velicer
+## **Year**: 3rd Year 
+## **Major**: Ecosystem Science and Sustainability
+## **OS**: Mac OS
